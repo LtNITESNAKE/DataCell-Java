@@ -1,0 +1,3 @@
+csc-102,oop,4,pf
+mth-202,la,3,null
+cs-102,ds,4,null
